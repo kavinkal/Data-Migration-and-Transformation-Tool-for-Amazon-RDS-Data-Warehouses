@@ -21,6 +21,9 @@ requests
 zipfile
 boto3
 Json
+pandas
+
+
 Approach
 
 To begin, utilize the request library to download the JSON ZIP file from the specified URL. Then, employ the zipfile module, along with its limit method, to extract the data from the downloaded ZIP file.
