@@ -35,3 +35,7 @@ Next, establish a table in RDS and load the data after tranforming the data. mak
 Using AWS IAM, generate access and secret keys to connect AWS S3 locally via the boto3 method. With boto3, upload the downloaded JSON files to the S3 bucket.
 
 
+![image](https://github.com/kavinkal/Data-Migration-and-Transformation-Tool-for-Amazon-RDS-Data-Warehouses/assets/161695081/ed00a2b4-ac7a-495b-bb75-ffe23d48eb48)
+
+
+
